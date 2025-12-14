@@ -1,0 +1,28 @@
+Course Name - C++ Course Code With Harry
+(https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL&index=1&pp=iAQB)
+
+variabels c++
+data types- int(123), float(0.1,0.31) , char(b,c,d)
+variable types
+int
+float use for decimal numbers
+char
+double- like the float use for stroing large numbers like 1.2223445456454
+Boolean use for yes or no , male or female like giving an option
+
+derived datatypes
+array
+function
+pointer
+
+
+\n use to start next line from down
+endl is also used for this   
+cout<<" The value of a "<<a<<"\n The value of b "<<b;
+cout<<"\n"<<a<<b;
+output
+the value of a 20
+the value of b 
+these 2 methods can be used
+
+
